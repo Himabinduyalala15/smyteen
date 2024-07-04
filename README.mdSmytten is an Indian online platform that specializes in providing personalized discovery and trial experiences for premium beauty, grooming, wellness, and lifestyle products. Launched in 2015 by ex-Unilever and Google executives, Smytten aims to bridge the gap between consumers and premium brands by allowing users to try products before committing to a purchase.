@@ -1,0 +1,7 @@
+Smytten is an Indian online platform that specializes in providing personalized discovery and trial experiences for premium beauty, grooming, wellness, and lifestyle products. Launched in 2015 by ex-Unilever and Google executives, Smytten aims to bridge the gap between consumers and premium brands by allowing users to try products before committing to a purchase. 
+The dataset contains the following columns:
+
+Name: The name of the reviewer.
+Rating: The rating given by the reviewer (e.g., "5/").
+total rating: The total possible rating (e.g., "5").
+Review: The text of the review written by the reviewer.
